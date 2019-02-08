@@ -12,9 +12,9 @@ const Nav = () => {
   return (
     <NavStyles>
       <Link href="/item">
-        <a>Item</a>
+        <a>shop</a>
       </Link>
-      <Link href="/second">
+      <Link href="/sell">
         <a>Sell</a>
       </Link>
       <Link href="/signUp">
